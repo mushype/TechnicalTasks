@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSVReaderTask": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\gooch\\source\\repos\\CSVReaderTask\\CSVReaderTask\\data\\csvData.csv c:\\temp\\output.txt json"
+    }
+  }
+}

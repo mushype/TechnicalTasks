@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gooch\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gooch\\.nuget\\packages"
+    ]
+  }
+}

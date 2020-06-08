@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vILgmyMzOxc1Hs/NEcFubXuvDUBh+e+ZL9Hr+zfmK1GRL88koJn/LvZb6chJIqXjwK6SbayyJp7mLc2lxfIY1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gooch\\source\\repos\\CSVReaderTask\\CSVReaderTask\\CSVReaderTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gooch\\.nuget\\packages\\csvhelper\\15.0.5\\csvhelper.15.0.5.nupkg.sha512",
+    "C:\\Users\\gooch\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\gooch\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

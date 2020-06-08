@@ -1,0 +1,16 @@
+C:\Users\gooch\source\repos\CSVReaderTask\CSVReaderTask\bin\Debug\netcoreapp3.1\CSVReaderTask.exe
+C:\Users\gooch\source\repos\CSVReaderTask\CSVReaderTask\obj\Debug\netcoreapp3.1\CSVReaderTask.csprojAssemblyReference.cache
+C:\Users\gooch\source\repos\CSVReaderTask\CSVReaderTask\obj\Debug\netcoreapp3.1\CSVReaderTask.AssemblyInfoInputs.cache
+C:\Users\gooch\source\repos\CSVReaderTask\CSVReaderTask\obj\Debug\netcoreapp3.1\CSVReaderTask.AssemblyInfo.cs
+C:\Users\gooch\source\repos\CSVReaderTask\CSVReaderTask\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\gooch\source\repos\CSVReaderTask\CSVReaderTask\obj\Debug\netcoreapp3.1\CSVReaderTask.csproj.CopyComplete
+C:\Users\gooch\source\repos\CSVReaderTask\CSVReaderTask\bin\Debug\netcoreapp3.1\CSVReaderTask.deps.json
+C:\Users\gooch\source\repos\CSVReaderTask\CSVReaderTask\bin\Debug\netcoreapp3.1\CSVReaderTask.runtimeconfig.json
+C:\Users\gooch\source\repos\CSVReaderTask\CSVReaderTask\bin\Debug\netcoreapp3.1\CSVReaderTask.runtimeconfig.dev.json
+C:\Users\gooch\source\repos\CSVReaderTask\CSVReaderTask\bin\Debug\netcoreapp3.1\CSVReaderTask.dll
+C:\Users\gooch\source\repos\CSVReaderTask\CSVReaderTask\bin\Debug\netcoreapp3.1\CSVReaderTask.pdb
+C:\Users\gooch\source\repos\CSVReaderTask\CSVReaderTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gooch\source\repos\CSVReaderTask\CSVReaderTask\obj\Debug\netcoreapp3.1\CSVReaderTask.csproj.CoreCompileInputs.cache
+C:\Users\gooch\source\repos\CSVReaderTask\CSVReaderTask\obj\Debug\netcoreapp3.1\CSVReaderTask.dll
+C:\Users\gooch\source\repos\CSVReaderTask\CSVReaderTask\obj\Debug\netcoreapp3.1\CSVReaderTask.pdb
+C:\Users\gooch\source\repos\CSVReaderTask\CSVReaderTask\obj\Debug\netcoreapp3.1\CSVReaderTask.genruntimeconfig.cache
